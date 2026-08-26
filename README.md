@@ -33,7 +33,6 @@ I am a passionate and driven **Computer Science & Engineering** graduate (2026 P
 
 Beyond writing code, I love sharing my tech journey, breaking down complex topics, and building an inclusive tech community through digital content creation!
 
-* 📸 **Content Creator:** Check out my tutorials and tech insights on **YouTube**, **Medium**, and **Instagram**!
 * 💡 **Fun Fact:** I enjoy exploring the intersection of modern web architectures and robust enterprise clouds like ServiceNow and SAP.
 * 🎯 **Current Goal:** Actively seeking full-time opportunities where I can contribute to high-impact projects.
 * ☕ **Fuel:** Powered by curiosity, clean code, and endless cups of chai.
