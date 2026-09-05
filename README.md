@@ -1,4 +1,3 @@
-# Hi, I'm Rupa Saraswathi Tamarada 👋
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Rupa-saraswathi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
