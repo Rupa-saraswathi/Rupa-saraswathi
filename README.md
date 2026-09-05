@@ -149,7 +149,7 @@ A real-time multi-class object detection system designed to perform efficient in
 - 🌐 Deployed inference through a **Flask REST API**
 - 📚 Research work presented at the **AIDE-2024 Conference**
 
-🔗 **Repository:** [View Project](#)
+🔗 **Repository:** [View Project](https://github.com/Rupa-saraswathi/Object-Detection-using-YOLOV9-)
 
 ---
 
@@ -167,7 +167,7 @@ A full-stack document question-answering system that allows users to interact wi
 - 📊 Added retrieval confidence scoring to flag potentially unreliable answers
 - 👥 Designed multi-user workspaces with **role-based access control**
 
-🔗 **Repository:** [View Project](#)
+🔗 **Repository:** [View Project](https://github.com/Rupa-saraswathi/DocQuery)
 
 ---
 
@@ -185,7 +185,7 @@ A full-stack flight booking platform implementing authentication, search, filter
 - 🏗️ Structured backend components using **MVC-style architecture**
 - ⚛️ Integrated React frontend with backend REST endpoints
 
-🔗 **Repository:** [View Project](#)
+🔗 **Repository:** [View Project](https://github.com/Rupa-saraswathi/Flight-Finder-Navigating-your-air-travel-options)
 
 ---
 
@@ -208,7 +208,7 @@ I actively practice **Data Structures & Algorithms** to improve algorithmic thin
 - 🟡 **213+ problems** solved on LeetCode
 - 🔥 **100 Days LeetCode Badge — 2026**
 - 📅 **124+ day coding streak** on Naukri Code 360
-- 🏅 **GeeksforGeeks Coding Score:** 1681
+- 🏅 **GeeksforGeeks Coding Score:** 1681+
 - 🏫 **GeeksforGeeks Institute Rank:** 27
 
 ---
