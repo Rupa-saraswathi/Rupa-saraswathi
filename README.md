@@ -10,7 +10,7 @@
 
   <h1>Hi, I'm Rupa Saraswathi Tamarada! 👋</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate+%7C+2026;Software+Engineering+%7C+DSA;Full-Stack+%7C+AI%2FML+%7C+Generative+AI;Building+Practical+%26+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5555&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate+%7C+2026;Software+Engineering+%7C+DSA;Full-Stack+%7C+AI%2FML+%7C+Generative+AI;Building+Practical+%26+Scalable+Solutions" alt="Typing SVG" />
 
   <br/>
 
@@ -21,9 +21,28 @@
     <a href="https://github.com/Rupa-saraswathi">
       <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://leetcode.com/">
+    <a href="https://leetcode.com/u/Rupa_Saraswathi_Tamarada/">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
     </a>
+    <!-- GeeksforGeeks -->
+<a href="https://www.geeksforgeeks.org/profile/rupatamvmag?tab=activity">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+
+<!-- Naukri Code 360 -->
+<a href="https://www.naukri.com/code360/profile/fef47daf-b28f-491c-94ab-61b49d01dbd6">
+  <img src="https://img.shields.io/badge/Naukri_Code360-E25C1D?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Naukri Code 360" />
+</a>
+
+<!-- HackerRank -->
+<a href="https://www.hackerrank.com/profile/rupatamarada">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+</a>
+
+<!-- Google Skills Boost -->
+<a href="https://www.skills.google/public_profiles/b07fc6ca-1366-433f-bfb3-283abb1ea7a8">
+  <img src="https://img.shields.io/badge/Google_Skills-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Skills" />
+</a>
   </p>
 
 </div>
